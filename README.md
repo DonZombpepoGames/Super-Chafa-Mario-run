@@ -4,7 +4,7 @@ My current fangame, its a infinite runner featuring mario :0
 Programming: DonZombpepo
 Sprites: Keira, YeY, Amigosaurio, Nintendo, Mrpapermario, Don Zombpepo
 Music and sounds: Nintendo
-Original Game: SUper Chafa Mario Run
+Original Game: SUper Mario Run
 Powered By Construct2
 
 
